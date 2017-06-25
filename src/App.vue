@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <router-view v-wechat-title="$route.meta.title" img-set="/static/images/logo.png"></router-view>
+    <router-view v-wechat-title="$route.meta.title" img-set="/static/icons/username.ico"></router-view>
   </div>
 </template>
 

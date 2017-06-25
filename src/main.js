@@ -7,6 +7,10 @@ import App from './App'
 import VueLazyload from 'vue-lazyload'
 import { ToastPlugin } from 'vux';
 
+import './sass/base/common.scss'
+
+
+
 // 微信浏览器标题
 Vue.use(require('vue-wechat-title'));
 // 图片懒加载
